@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[submodule]
+	active = .
+[remote "origin"]
+	url = https://github.com/yanhanta/PersonalWebsite.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "fix-teaching"]
+	remote = origin
+	merge = refs/heads/fix-teaching
+[lfs]
+	repositoryformatversion = 0

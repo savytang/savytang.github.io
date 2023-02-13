@@ -1,0 +1,31 @@
+# main links links
+main:
+  - title: "Researches"
+    url: /research/
+
+#  - title: "Talks"
+#    url: /talks/
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+#  - title: "Portfolio"
+#    url: /portfolio/
+        
+#  - title: "Blog Posts"
+#    url: /year-archive/
+    
+#  - title: "Guide"
+#    url: /markdown/
+
+  - title: "Services"
+    url: /service/
+
+  - title: "Media"
+    url: /media/
+
+  - title: "Awards"
+    url: /award/
+
+  - title: "CV"
+    url: /cv/

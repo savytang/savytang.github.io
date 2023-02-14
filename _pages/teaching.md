@@ -4,15 +4,14 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
-
-# Instructor
+# As Instructor
 
 - 70371 - __Operations Management__, CMU undergraduate course, 2022 Summer.
   - Faculty course evaluation: 4.33/5 with a 100% response rate (class size: 21).
   - Highest overall course rating for the 18 undergraduate OM courses taught by 9 different instructors at CMU in the last 3 years.
   - Developed course materials and gave lectures on zoom.
 
-# Teaching Assistant and Grader
+# As Teaching Assistant and Grader
 
 - __Operations Management__ (Instructor: Sridhar Tayur), CMU MBA course, Teaching Assistant, 2020 - 2022 Falls.
 - __Operations Management__ (Instructor: Neda Mirzaeian), CMU undergraduate course, Grader, 2021 Summer.

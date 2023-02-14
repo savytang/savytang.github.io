@@ -17,6 +17,6 @@ My research interests lie in the fields of Artificial Intelligence (AI) and Mach
 
 # Research Interests
 
-__Methodology:__ Machine learning, optimization, reinforcement learning, deep learning
+__Methodology:__ Machine learning, optimization, reinforcement learning, deep learning<br>
 __Application:__ Healthcare, financial services, child protection
 

@@ -13,7 +13,7 @@ I am a Ph.D. candidate at [Tepper School of Business](https://www.cmu.edu/tepper
 
 My research interests lie in the fields of Artificial Intelligence (AI) and Machine Learning (ML), as well as their applications in healthcare and financial services. Currently, I am investigating two areas of focus: a) the application of ML methods in financial services and non-profit operations, and b) the development of analytical models for organ allocation.
 
-
+More details can be found on my [CV](../files/Tang_Yanhan_20230213.pdf).
 
 # Research Interests
 

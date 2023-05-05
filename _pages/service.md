@@ -5,6 +5,7 @@ permalink: /service/
 author_profile: true
 ---
 
+1. Co-chair for the [2023 PSOR Best Paper Award](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Public-Sector-O.R/Public-Sector-Operations-Research-Best-Paper-Award#:~:text=The%20INFORMS%20Public%20Sector%20Operations,application%20areas%20represented%20within%20PSOR.). 2023
 1. [Student Liaison](https://twitter.com/informshas/status/1496479890782175238) for the [Health Analysis Society (HAS) of INFORMS](https://connect.informs.org/healthapplications/about-us/about-has), 2021 ~ 2022
 1. Co-organizer for the CMU INFORMS [YinzOR Student Conferences](https://yinzor.cmuinforms.org/), 2019 ~ 2022
 1. Treasurer for the [CMU INFORMS student chapter](https://cmuinforms.org/people), 2019 ~ 2020

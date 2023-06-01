@@ -18,7 +18,7 @@ author_profile: true
 1. [Multi-Armed Bandits with Endogenous Learning and Queueing: An Application to Split Liver Transplantation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3855206). __Yanhan (Savannah) Tang__, Andrew Li, Alan Scheller-Wolf, Sridhar Tayur. Major revision at ___Manufacturing and Service Operations Management___.
   - Finalist - [2022 INFORMS Service Science Best Cluster Paper Award](https://www.informs.org/Recognizing-Excellence/Award-Recipients/Yanhan-Savannah-Tang). ([Link to talk](https://www.youtube.com/watch?v=L4iCJBMfN6s&list=PLuvtfhwcPzCRQmCfFmJbgbRK2PuzvDpXo&index=11).)
   - Second place - POMS-HK 2023 Best Student Paper Competition
-  - Finalist - POMS College of Service Operations Management (CSOM) Best Student Paper Competition
+  - Runner up - POMS College of Service Operations Management (CSOM) Best Student Paper Competition
   - To be presented at MSOM Healthcare SIG 2023
   - Media coverage: [Tepper Stories](https://www.cmu.edu/tepper/news/stories/2023/january/research-summary.html), [Ph.D. Health Care Research Showcase](https://www.cmu.edu/tepper/faculty-and-research/initiatives/health-care-initiative/education/research.html)
 1. The less tangled web: Why AI chatbots should practice deceit less than humans. Tae Wan Kim, Tong (Joy) Lu, Kyusong Lee, Zhaoqi Cheng, __Yanhan (Savannah) Tang__, John Hooker. R&R at ___Minds and Machines___.
@@ -26,6 +26,7 @@ author_profile: true
 
 # Work-In-Progress
 
+1. A Nested Bayesian Model for Predicting Customer Life-Changing Events Based on Financial Transaction Data, __Yanhan (Savannah) Tang__, Alan Montgomery.
 1. The Next Best Offer Algorithm. __Yanhan (Savannah) Tang__, Alan Montgomery.
-1. Human-AI Teaming in Screening Child Abuse Reports. __Yanhan (Savannah) Tang__, Zoey Jiang, Alan Scheller-Wolf.
+1. System Load and Human-AI Teaming in Child Welfare Screening. __Yanhan (Savannah) Tang__, Zoey Jiang, Alan Scheller-Wolf, Justine Galbraith, Lindsey Lacey.
 1. Split Liver Transplantation Reduces Total Patient Deaths and Improves Fairness. __Yanhan (Savannah) Tang__, Alan Scheller-Wolf, Sridhar Tayur, Emily R. Perito, John P. Roberts.

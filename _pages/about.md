@@ -23,7 +23,7 @@ More details can be found on my [CV](../files/Tang_Yanhan_20230601.pdf).
 
 **Upcoming talks**
 
-INFORMS MSOM 2023, Montreal, Quebec, 2023
+INFORMS MSOM 2023, Montreal, Quebec, Canada
 
 * Talk title: Multi-Armed Bandits with Endogenous Learning Curves: An Application to Split Liver Transplantation
   * Session: Healthcare Operations SIG Track Session No. 3
@@ -34,7 +34,7 @@ INFORMS MSOM 2023, Montreal, Quebec, 2023
   - Time: Sunday, June 25, 2023, 8:00 am - 9:30 am
   - Location: International I
 
-INFORMS Healthcare Conference 2023, Toronto, ON, 2023
+INFORMS Healthcare Conference 2023, Toronto, Ontario, Canada
 
 * Talk title: Multi-Armed Bandits with Endogenous Learning Curves: An Application to Split Liver Transplantation
   * Session: TA11 - Data-driven Sequential Decision Making in Medicine

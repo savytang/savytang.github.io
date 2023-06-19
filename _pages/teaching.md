@@ -8,7 +8,7 @@ author_profile: true
 
 - 70371 - __Operations Management__, CMU undergraduate course, 2022 Summer.
   - Faculty course evaluation: 4.33/5 with a 100% response rate (class size: 21).
-  - Highest overall course rating for the 18 undergraduate OM courses taught by 9 different instructors at CMU in the last 3 years.
+  - Highest overall course rating for the 18 undergraduate OM courses taught by 9 different instructors at CMU between Fall 2019 and Spring 2023.
   - Developed course materials and gave 29 lectures on zoom.
 
 # As Teaching Assistant and Grader

@@ -26,7 +26,7 @@ author_profile: true
 
 # Work-In-Progress
 
-1. A Nested Bayesian Model for Predicting Customer Life-Changing Events Based on Financial Transaction Data, __Yanhan (Savannah) Tang__, Alan Montgomery.
+1. A Nested Bayesian Model for Inferring Customer Life-Changing Events Based on Financial Transaction Data, __Yanhan (Savannah) Tang__, Alan Montgomery.
 1. The Next Best Offer Algorithm. __Yanhan (Savannah) Tang__, Alan Montgomery.
 1. System Load and Human-AI Teaming in Child Welfare Screening. __Yanhan (Savannah) Tang__, Zoey Jiang, Alan Scheller-Wolf, Justine Galbraith, Lindsey Lacey.
 1. Split Liver Transplantation Reduces Total Patient Deaths and Improves Fairness. __Yanhan (Savannah) Tang__, Alan Scheller-Wolf, Sridhar Tayur, Emily R. Perito, John P. Roberts.

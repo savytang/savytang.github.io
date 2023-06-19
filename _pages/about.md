@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Savannah Tang's personal website."
+title: "Savannah Tang's personal website. Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -23,7 +23,7 @@ More details can be found on my [CV](../files/Tang_Yanhan_20230601.pdf).
 
 **Upcoming talks**
 
-INFORMS MSOM 2023, Montreal, Quebeck, 2023
+INFORMS MSOM 2023, Montreal, Quebec, 2023
 
 * Talk title: Multi-Armed Bandits with Endogenous Learning Curves: An Application to Split Liver Transplantation
   * Session: Healthcare Operations SIG Track Session No. 3
@@ -33,10 +33,14 @@ INFORMS MSOM 2023, Montreal, Quebeck, 2023
   - Session: SA2 - HO1: Logistics in healthcare
   - Time: Sunday, June 25, 2023, 8:00 am - 9:30 am
   - Location: International I
+
+INFORMS Healthcare Conference 2023, Toronto, ON, 2023
+
 * Talk title: Multi-Armed Bandits with Endogenous Learning Curves: An Application to Split Liver Transplantation
   * Session: TA11 - Data-driven Sequential Decision Making in Medicine
   * Time: Thursday, July 27, 2023, 8:00 am -9:30 am
   * Location: Tom Thomson
+
 * Talk title: Application of Multi-Armed Bandits in Split Liver Transplantation
   * Session: TD06 - Stochastic Models in Healthcare Operations
   * Time: Thursday, July 27, 2023, 4:30 pm -6:00 pm

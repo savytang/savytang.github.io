@@ -19,20 +19,9 @@ More broadly, two main themes of my research are:
 
 * Designing models and solution methodologies for allocating critical yet limited resources efficiently and fairly.
 
-More details can be found on my [CV](../files/Tang_Yanhan_20230601.pdf).
+More details can be found on my [CV](../files/Tang_Yanhan_20230625.pdf).
 
 **Upcoming talks**
-
-INFORMS MSOM 2023, Montreal, Quebec, Canada
-
-* Talk title: Multi-Armed Bandits with Endogenous Learning Curves: An Application to Split Liver Transplantation
-  * Session: Healthcare Operations SIG Track Session No. 3
-  * Time: Saturday, June 24, 2023, 1:00 pm - 2:30 pm
-  * Location: TBA
-* Talk title: Split Liver Transplantation: An analytical decision support model
-  - Session: SA2 - HO1: Logistics in healthcare
-  - Time: Sunday, June 25, 2023, 8:00 am - 9:30 am
-  - Location: International I
 
 INFORMS Healthcare Conference 2023, Toronto, Ontario, Canada
 

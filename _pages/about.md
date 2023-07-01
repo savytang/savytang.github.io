@@ -19,7 +19,7 @@ More broadly, two main themes of my research are:
 
 * Designing models and solution methodologies for allocating critical yet limited resources efficiently and fairly.
 
-More details can be found on my [CV](../files/Tang_Yanhan_20230625.pdf).
+More details can be found on my [CV](../files/Tang_CV_0701.pdf).
 
 **Upcoming talks**
 

@@ -9,7 +9,7 @@ author_profile: true
 
 # Working Papers
 
-1. [Multi-Armed Bandits with Endogenous Learning and Queueing: An Application to Split Liver Transplantation](../files/Tang_jmp_MAB_0702.pdf). __Yanhan (Savannah) Tang__, Andrew Li, Alan Scheller-Wolf, Sridhar Tayur. Major revision at ___Manufacturing and Service Operations Management___.
+1. [Multi-Armed Bandits with Endogenous Learning and Queueing: An Application to Split Liver Transplantation and Personalized Marketing](../files/Tang_jmp_MAB_0702.pdf). __Yanhan (Savannah) Tang__, Andrew Li, Alan Scheller-Wolf, Sridhar Tayur. Major revision at ___Manufacturing and Service Operations Management___.
   - Finalist - [2022 INFORMS Service Science Best Cluster Paper Award](https://www.informs.org/Recognizing-Excellence/Award-Recipients/Yanhan-Savannah-Tang). ([Link to talk](https://www.youtube.com/watch?v=L4iCJBMfN6s&list=PLuvtfhwcPzCRQmCfFmJbgbRK2PuzvDpXo&index=11).)
   - Second place - POMS-HK 2023 Best Student Paper Competition
   - Runner up - POMS College of Service Operations Management (CSOM) Best Student Paper Competition
@@ -32,3 +32,4 @@ author_profile: true
 1. The Next Best Offer Algorithm. __Yanhan (Savannah) Tang__, Alan Montgomery.
 1. System Load and Human-AI Teaming in Child Welfare Screening. __Yanhan (Savannah) Tang__, Zoey Jiang, Alan Scheller-Wolf, Justine Galbraith, Lindsey Lacey.
 1. Split Liver Transplantation Reduces Total Patient Deaths and Improves Fairness. __Yanhan (Savannah) Tang__, Alan Scheller-Wolf, Sridhar Tayur, Emily R. Perito, John P. Roberts.
+

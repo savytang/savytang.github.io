@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at [Tepper School of Business](https://www.cmu.edu/tepper/), [Carnegie Mellon University](https://www.cmu.edu/), where I am advised by Prof. [Alan Scheller-Wolf](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/scheller-wolf-alan.html), Prof. [Sridhar Tayur](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/tayur-sridhar.html), and Prof. [Alan Montgomery](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/montgomery-alan.html). I earned a [Master's degree in Machine Learning](https://www.ml.cmu.edu/academics/machine-learning-masters-curriculum.html) from [CMU's School of Computer Science](https://www.cs.cmu.edu/).  Before I came to CMU. I obtained my Bachelor's degree in Information Systems from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm). 
+I am a Ph.D. candidate at the [Tepper School of Business](https://www.cmu.edu/tepper/), [Carnegie Mellon University](https://www.cmu.edu/), where I am advised by Prof. [Alan Scheller-Wolf](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/scheller-wolf-alan.html), Prof. [Sridhar Tayur](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/tayur-sridhar.html), and Prof. [Alan Montgomery](https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/montgomery-alan.html). I earned a [Master's degree in Machine Learning](https://www.ml.cmu.edu/academics/machine-learning-masters-curriculum.html) from [CMU's School of Computer Science](https://www.cs.cmu.edu/).  Before coming to CMU, I obtained my Bachelor's degree in Information Systems from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm). 
 
 **I am on the 2023-2024 academic job market.**
 
@@ -19,7 +19,7 @@ More broadly, two main themes of my research are:
 
 * Designing models and solution methodologies for allocating critical yet limited resources efficiently and fairly.
 
-More details can be found on my [CV](../files/Tang_CV_0701.pdf).
+More details can be found on my [CV](../files/Tang_CV_0705.pdf).
 
 **Upcoming talks**
 

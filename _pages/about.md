@@ -35,6 +35,6 @@ INFORMS Healthcare Conference 2023, Toronto, Ontario, Canada
   * Time: Thursday, July 27, 2023, 4:30 pm -6:00 pm
   * Location: Toronto Ballroom III
 * Talk title: Split Liver Transplantation: An Analytical Decision Support Model
-  * Session: FA05 - Innovative Models in Healthcare
+  * Session: FA06 - Innovative Models in Healthcare
   * Time: Friday, July 28, 2023, 8:00 am -9:30 am
-  * Location: Toronto Ballroom II
+  * Location: Harris

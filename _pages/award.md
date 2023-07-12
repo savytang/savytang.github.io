@@ -13,7 +13,7 @@ author_profile: true
 - _Finalist_, Service Science Best Cluster Paper Award, INFORMS, 2022
 - Litzenberger Family Fund, Tepper, 2022
 - PNC Presidential Fellowship, Tepper, 2022
-- PNC Center for Financial Services Innovation Fellowship, CMU, 2021 ~ 2023
+- PNC Center for Financial Services Innovation Fellowship, CMU, 2021 ~ 2024
 - Dean's Research Funding, Tepper, 2021
 - _Winner_, Society for Business Ethics Annual Meeting Best Paper Award, SBE, 2021
 - _Finalist_, Society for Business Ethics Best Practical Solutions Award, SBE, 2021

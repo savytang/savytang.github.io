@@ -33,7 +33,7 @@ INFORMS Healthcare Conference 2023, Toronto, Ontario, Canada
 * Talk title: Application of Multi-Armed Bandits in Split Liver Transplantation
   * Session: TD06 - Stochastic Models in Healthcare Operations
   * Time: Thursday, July 27, 2023, 4:30 pm -6:00 pm
-  * Location: Toronto Ballroom III
+  * Location: MacDonald
 * Talk title: Split Liver Transplantation: An Analytical Decision Support Model
   * Session: FA06 - Innovative Models in Healthcare
   * Time: Friday, July 28, 2023, 8:00 am -9:30 am

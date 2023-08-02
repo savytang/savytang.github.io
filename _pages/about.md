@@ -23,18 +23,9 @@ More details can be found on my [CV](../files/Tang_CV_0705.pdf).
 
 **Upcoming talks**
 
-INFORMS Healthcare Conference 2023, Toronto, Ontario, Canada
+2023 INFORMS Annual Meeting, Phoenix, Arizona, USA
 
 * Talk title: Multi-Armed Bandits with Endogenous Learning Curves: An Application to Split Liver Transplantation
-  * Session: TA11 - Data-driven Sequential Decision Making in Medicine
-  * Time: Thursday, July 27, 2023, 8:00 am -9:30 am
-  * Location: Tom Thomson
-
-* Talk title: Application of Multi-Armed Bandits in Split Liver Transplantation
-  * Session: TD06 - Stochastic Models in Healthcare Operations
-  * Time: Thursday, July 27, 2023, 4:30 pm -6:00 pm
-  * Location: MacDonald
-* Talk title: Split Liver Transplantation: An Analytical Decision Support Model
-  * Session: FA06 - Innovative Models in Healthcare
-  * Time: Friday, July 28, 2023, 8:00 am -9:30 am
-  * Location: Harris
+  * Session: SD63. AI in Service Science
+  * Time: Sunday, October 15, 2023, 2:15 PM - 3:30 PM. The 2nd of four talks scheduled for the session.
+  * Location: CC-West 102B

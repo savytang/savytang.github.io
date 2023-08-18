@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Savannah Tang"
 title_separator          : "-"
-name                     : &name "Yanhan (Savannah) Tang"
+name                     : &name "Savannah Tang"
 description              : &description "PhD Candidate at CMU" # "personal description"
 url                      : https://savytang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Savannah Tang"
+  name             : "Yanhan (Savannah) Tang"
   avatar           : "Tang_Yanhan_headshot.jpg" # "profile.png"
   bio              : "PhD candidate at Carnegie Mellon"
   location         : "Pittsburgh, PA"

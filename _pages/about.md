@@ -27,5 +27,5 @@ More details can be found on my [CV](../files/Tang_CV_0705.pdf).
 
 * Talk title: Multi-Armed Bandits with Endogenous Learning Curves: An Application to Split Liver Transplantation
   * Session: SD63. AI in Service Science
-  * Time: Sunday, October 15, 2023, 2:15 PM - 3:30 PM. The 2nd of four talks scheduled for the session.
+  * Time: Sunday, October 15, 2023, 2:15 PM - 3:30 PM, MST. The 2nd of four talks scheduled for the session.
   * Location: CC-West 102B

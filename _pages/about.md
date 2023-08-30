@@ -26,6 +26,11 @@ More details can be found on my [CV](../files/Tang_CV_0705.pdf).
 2023 INFORMS Annual Meeting, Phoenix, Arizona, USA
 
 * Talk title: Multi-Armed Bandits with Endogenous Learning Curves: An Application to Split Liver Transplantation
-  * Session: SD63. AI in Service Science
+  * Session: SD63. AI in Service Science.
   * Time: Sunday, October 15, 2023, 2:15 PM - 3:30 PM, MST. The 2nd of four talks scheduled for the session.
-  * Location: CC-West 102B
+  * Location: CC-West 102B.
+
+* Talk title: Resource Allocation and Learning by Doing in Healthcare
+  * Session: MC20. HAS Job Market Lightning Session.
+  * Time: Monday, October 16, 2023, 12:45 PM - 2:00 PM, MST. 
+  * Location: CC-North 128A.

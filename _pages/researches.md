@@ -23,7 +23,7 @@ author_profile: true
   - Finalist - [2022 INFORMS IBM Best Student Paper Award Competition](https://www.informs.org/Recognizing-Excellence/Award-Recipients/Yanhan-Savannah-Tang). ([Link to talk](https://www.youtube.com/watch?v=3QSfzrrAWQs).)
   - Media coverage: [Tepper Stories](https://www.cmu.edu/tepper/news/stories/2022/december/informs-awards.html), [Health Care Initiative](https://www.cmu.edu/tepper/faculty-and-research/initiatives/health-care-initiative/organ-donation.html), DEIC Blog
 
-1. The less tangled web: Why AI chatbots should practice deceit less than humans. Tae Wan Kim, Tong (Joy) Lu, Kyusong Lee, Zhaoqi Cheng, __Yanhan (Savannah) Tang__, John Hooker. R&R at ___Minds and Machines___.
+1. The less tangled web: Why AI chatbots should practice deceit less than humans. Tae Wan Kim, Tong (Joy) Lu, Kyusong Lee, Zhaoqi Cheng, __Yanhan (Savannah) Tang__, John Hooker. In preparation.
 
 1. [Efficiency, Fairness, and Stability in Peer-to-Peer Ridesharing](https://arxiv.org/abs/2110.01152). Hoon Oh<sup>&dagger;</sup>, __Yanhan (Savannah) Tang__<sup>&dagger;</sup>, Zong Zhang, Alexandre Jacquillat, Fei Fang.
 

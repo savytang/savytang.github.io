@@ -15,7 +15,7 @@ I am a Ph.D. candidate at the [Tepper School of Business](https://www.cmu.edu/te
 My research concentrates on data-driven decision-making for important real-world applications such as organ allocation, child welfare, and personalization. I am dedicated to conducting operations and artificial intelligence (AI) research for positive social impact. Two main themes of my research are:
 
 * Strategies for allocating critical yet limited resources efficiently and fairly. Specifically, I have developed decision support models for organ allocation, and human-AI teaming in child welfare.
-* Adaptive learning algorithms for ßdynamic environments. I am keen on developing innovative models and algorithms for scenarios involving learning by doing or nonstationary demand patterns. Thus far, I have applied algorithms to applications in surgical learning and personalized marketing.
+* Adaptive learning algorithms for dynamic environments. I am keen on developing innovative models and algorithms for scenarios involving learning by doing or nonstationary demand patterns. Thus far, I have applied novel algorithms to applications in surgical learning and personalized marketing.
 
 More details can be found on my [CV](../files/Tang_CV_0902.pdf).
 

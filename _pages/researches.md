@@ -13,14 +13,15 @@ author_profile: true
   - Finalist - [2022 INFORMS Service Science Best Cluster Paper Award](https://www.informs.org/Recognizing-Excellence/Award-Recipients/Yanhan-Savannah-Tang). ([Link to talk](https://www.youtube.com/watch?v=L4iCJBMfN6s&list=PLuvtfhwcPzCRQmCfFmJbgbRK2PuzvDpXo&index=11).)
   - Second place - POMS-HK 2023 Best Student Paper Competition
   - Runner up - POMS College of Service Operations Management (CSOM) Best Student Paper Competition
+  - Runner up - [2023 Decision Analysis Society Student Paper Award](https://connect.informs.org/das/awards/das-student-paper-award)
   - Presented at MSOM Healthcare SIG 2023
   - Media coverage: [Tepper Stories](https://www.cmu.edu/tepper/news/stories/2023/january/research-summary.html), [Ph.D. Health Care Research Showcase](https://www.cmu.edu/tepper/faculty-and-research/initiatives/health-care-initiative/education/research.html)
 
 1. [Split Liver Transplantation: An Analytical Decision Support Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3877523). __Yanhan (Savannah) Tang__, Alan Scheller-Wolf, Sridhar Tayur, Emily Perito, John Roberts. Major revision at ___Operations Research___.
-  - Presented at [MSOM Healthcare SIG 2022](https://www.msom-2022.com/SIG/)
   - First place - [2022 INFORMS DEI Best Student Paper Award](https://connect.informs.org/diversity/student-paper-award)
   - Winner - [2022 INFORMS Public Sector Operations Research Best Paper Award](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Public-Sector-O.R/Public-Sector-Operations-Research-Best-Paper-Award)
   - Finalist - [2022 INFORMS IBM Best Student Paper Award Competition](https://www.informs.org/Recognizing-Excellence/Award-Recipients/Yanhan-Savannah-Tang). ([Link to talk](https://www.youtube.com/watch?v=3QSfzrrAWQs).)
+  - Presented at [MSOM Healthcare SIG 2022](https://www.msom-2022.com/SIG/)
   - Media coverage: [Tepper Stories](https://www.cmu.edu/tepper/news/stories/2022/december/informs-awards.html), [Health Care Initiative](https://www.cmu.edu/tepper/faculty-and-research/initiatives/health-care-initiative/organ-donation.html), DEIC Blog
 
 1. The less tangled web: Why AI chatbots should practice deceit less than humans. Tae Wan Kim, Tong (Joy) Lu, Kyusong Lee, Zhaoqi Cheng, __Yanhan (Savannah) Tang__, John Hooker. In preparation.

@@ -9,7 +9,7 @@ author_profile: true
 
 # Working Papers
 
-1. [Multi-Armed Bandits with Endogenous Learning Curves: An Application to Split Liver Transplantation](../files/Tang_jmp_MAB_0705.pdf). __Yanhan (Savannah) Tang__, Andrew Li, Alan Scheller-Wolf, Sridhar Tayur. Major revision at ___Manufacturing and Service Operations Management___.
+1. [Multi-Armed Bandits with Endogenous Learning Curves: An Application to Split Liver Transplantation](../files/Tang_jmp_MAB_0705.pdf). __Yanhan (Savannah) Tang__, Andrew Li, Alan Scheller-Wolf, Sridhar Tayur. Major revision (2nd round) at ___Manufacturing and Service Operations Management___.
   - Finalist - [2022 INFORMS Service Science Best Cluster Paper Award](https://www.informs.org/Recognizing-Excellence/Award-Recipients/Yanhan-Savannah-Tang). ([Link to talk](https://www.youtube.com/watch?v=L4iCJBMfN6s&list=PLuvtfhwcPzCRQmCfFmJbgbRK2PuzvDpXo&index=11).)
   - Second place - POMS-HK 2023 Best Student Paper Competition
   - Runner up - POMS College of Service Operations Management (CSOM) Best Student Paper Competition
@@ -24,7 +24,7 @@ author_profile: true
   - Presented at [MSOM Healthcare SIG 2022](https://www.msom-2022.com/SIG/)
   - Media coverage: [Tepper Stories](https://www.cmu.edu/tepper/news/stories/2022/december/informs-awards.html), [Health Care Initiative](https://www.cmu.edu/tepper/faculty-and-research/initiatives/health-care-initiative/organ-donation.html), DEIC Blog
 
-1. The less tangled web: Why AI chatbots should practice deceit less than humans. Tae Wan Kim, Tong (Joy) Lu, Kyusong Lee, Zhaoqi Cheng, __Yanhan (Savannah) Tang__, John Hooker. In preparation.
+1. [When is it permissible for artificial intelligence to lie? A trust-based approach](https://arxiv.org/abs/2103.05434). Tae Wan Kim, Tong (Joy) Lu, Kyusong Lee, Zhaoqi Cheng, __Yanhan (Savannah) Tang__, John Hooker. In preparation.
 
 1. [Efficiency, Fairness, and Stability in Peer-to-Peer Ridesharing](https://arxiv.org/abs/2110.01152). Hoon Oh<sup>&dagger;</sup>, __Yanhan (Savannah) Tang__<sup>&dagger;</sup>, Zong Zhang, Alexandre Jacquillat, Fei Fang.
 

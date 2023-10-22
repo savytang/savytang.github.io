@@ -13,7 +13,7 @@ author_profile: true
 
 # As Teaching Assistant and Grader
 
-- __Operations Management__ (Instructor: Sridhar Tayur), CMU MBA course, Teaching Assistant, 2020 - 2022 Falls.
+- __Operations Management__ (Instructor: Sridhar Tayur), CMU MBA course, Teaching Assistant, 2020 - 2022 Fall.
 - __Operations Management__ (Instructor: Neda Mirzaeian), CMU undergraduate course, Grader, 2021 Summer.
 - __New Product Management__ (Instructor: Peter Boatwright), CMU MBA course, Grader, 2020 Fall.
 - __Marketing Management__ (Instructor: Peter Boatwright), CMU MBA course, Grader, 2020 Fall.

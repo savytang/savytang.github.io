@@ -17,18 +17,4 @@ My research concentrates on data-driven decision-making for important real-world
 * Strategies for allocating critical yet limited resources efficiently and fairly. Specifically, I have developed decision support models for organ allocation, and human-AI teaming in child welfare.
 * Adaptive learning algorithms for dynamic environments. I am keen on developing innovative models and algorithms for scenarios involving learning by doing or nonstationary demand patterns. Thus far, I have applied novel algorithms to applications in surgical learning and personalized marketing.
 
-More details can be found on my [CV](../files/Tang_CV_1013.pdf).
-
-**Upcoming talks**
-
-2023 INFORMS Annual Meeting, Phoenix, Arizona, USA
-
-* Talk title: Multi-Armed Bandits with Endogenous Learning Curves: An Application to Split Liver Transplantation
-  * Session: SD63. AI in Service Science.
-  * Time: Sunday, October 15, 2023, 2:15 PM - 3:30 PM, MST. The 2nd of four talks scheduled for the session.
-  * Location: CC-West 102B.
-
-* Talk title: Resource Allocation and Learning by Doing in Healthcare
-  * Session: MC20. HAS Job Market Lightning Session.
-  * Time: Monday, October 16, 2023, 12:45 PM - 2:00 PM, MST. 
-  * Location: CC-North 128A.
+More details can be found on my [CV](../files/Tang_CV_1022.pdf).

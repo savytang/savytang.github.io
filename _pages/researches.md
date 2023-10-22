@@ -26,7 +26,7 @@ author_profile: true
 
 1. [When is it permissible for artificial intelligence to lie? A trust-based approach](https://arxiv.org/abs/2103.05434). Tae Wan Kim, Tong (Joy) Lu, Kyusong Lee, Zhaoqi Cheng, __Yanhan (Savannah) Tang__, John Hooker. In preparation.
 
-1. [Efficiency, Fairness, and Stability in Peer-to-Peer Ridesharing](https://arxiv.org/abs/2110.01152). Hoon Oh<sup>&dagger;</sup>, __Yanhan (Savannah) Tang__<sup>&dagger;</sup>, Zong Zhang, Alexandre Jacquillat, Fei Fang.
+1. [Efficiency, Fairness, and Stability in Peer-to-Peer Ridesharing](https://arxiv.org/abs/2110.01152). Hoon Oh<sup>&dagger;</sup>, __Yanhan (Savannah) Tang__<sup>&dagger;</sup>, Zong Zhang, Alexandre Jacquillat, Fei Fang. Technical report for *Mobility21*.
 
 # Work-In-Progress
 

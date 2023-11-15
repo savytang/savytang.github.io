@@ -24,7 +24,7 @@ author_profile: true
   - Presented at [MSOM Healthcare SIG 2022](https://www.msom-2022.com/SIG/)
   - Media coverage: [Tepper Stories](https://www.cmu.edu/tepper/news/stories/2022/december/informs-awards.html), [Health Care Initiative](https://www.cmu.edu/tepper/faculty-and-research/initiatives/health-care-initiative/organ-donation.html), DEIC Blog
 
-1. [When is it permissible for artificial intelligence to lie? A trust-based approach](https://arxiv.org/abs/2103.05434). Tae Wan Kim, Tong (Joy) Lu, Kyusong Lee, Zhaoqi Cheng, __Yanhan (Savannah) Tang__, John Hooker. In preparation.
+1. [When is it permissible for artificial intelligence to lie? A trust-based approach](https://arxiv.org/abs/2103.05434). Tae Wan Kim, Tong (Joy) Lu, Kyusong Lee, Zhaoqi Cheng, __Yanhan (Savannah) Tang__, John Hooker. Submitted.
 
 1. [Efficiency, Fairness, and Stability in Peer-to-Peer Ridesharing](https://arxiv.org/abs/2110.01152). Hoon Oh<sup>&dagger;</sup>, __Yanhan (Savannah) Tang__<sup>&dagger;</sup>, Zong Zhang, Alexandre Jacquillat, Fei Fang. Technical report for *Mobility21*.
 

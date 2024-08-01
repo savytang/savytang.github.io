@@ -5,6 +5,7 @@ permalink: /award/
 author_profile: true
 ---
 
+- William W. Cooper Doctoral Dissertation Award, CMU, 2024
 - _Runner-up_, 2023 Decision Analysis Society Student Paper Award, INFORMS, 2023
 - _Runner-up_, 2023 POMS CSOM Best Student Paper Competition, POMS, 2023
 - _Second place_, POMS-HK 2023 Best Student Paper Competition, POMS-HK, 2023

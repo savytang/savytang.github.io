@@ -5,6 +5,7 @@ permalink: /award/
 author_profile: true
 ---
 
+- *Finalist*, 2024 PSOR Best Video Competition, INFORMS, 2024
 - William W. Cooper Doctoral Dissertation Award, CMU, 2024
 - _Runner-up_, 2023 Decision Analysis Society Student Paper Award, INFORMS, 2023
 - _Runner-up_, 2023 POMS CSOM Best Student Paper Competition, POMS, 2023

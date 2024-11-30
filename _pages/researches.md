@@ -32,6 +32,5 @@ author_profile: true
 
 1. Human-Artificial Intelligence Teaming and Effects of System Load on Child Welfare Screening. __Yanhan (Savannah) Tang__, Zoey Jiang, Alan Scheller-Wolf, Justine Galbraith, Lindsey Lacey. ([Link to extended abstract.](../files/abstract_CYF.pdf))
 1. A Nested Bayesian Model for Inferring Customer Life-Changing Events Based on Financial Transaction Data, __Yanhan (Savannah) Tang__, Alan Montgomery. ([Link to abstract.](../files/abstract_pnc.pdf))
-1. The Next Best Offer Algorithm. __Yanhan (Savannah) Tang__, Alan Montgomery.
 1. Split Liver Transplantation Reduces Total Patient Deaths and Improves Fairness. __Yanhan (Savannah) Tang__, Alan Scheller-Wolf, Sridhar Tayur, Emily R. Perito, John P. Roberts.
 

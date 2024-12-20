@@ -17,7 +17,7 @@ author_profile: true
   - Presented at MSOM Healthcare SIG 2023
   - Media coverage: [Tepper Stories](https://www.cmu.edu/tepper/news/stories/2023/january/research-summary.html), [Ph.D. Health Care Research Showcase](https://www.cmu.edu/tepper/faculty-and-research/initiatives/health-care-initiative/education/research.html)
 
-1. [Split Liver Transplantation: An Analytical Decision Support Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3877523). __Yanhan (Savannah) Tang__, Alan Scheller-Wolf, Sridhar Tayur, Emily Perito, John Roberts. Major revision at ___Operations Research___.
+1. [Split Liver Transplantation: An Analytical Decision Support Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3877523). __Yanhan (Savannah) Tang__, Alan Scheller-Wolf, Sridhar Tayur, Emily Perito, John Roberts. Minor revision at ___Operations Research___.
   - First place - [2022 INFORMS DEI Best Student Paper Award](https://connect.informs.org/diversity/student-paper-award)
   - Winner - [2022 INFORMS Public Sector Operations Research Best Paper Award](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Public-Sector-O.R/Public-Sector-Operations-Research-Best-Paper-Award)
   - Finalist - [2022 INFORMS IBM Best Student Paper Award Competition](https://www.informs.org/Recognizing-Excellence/Award-Recipients/Yanhan-Savannah-Tang). ([Link to talk](https://www.youtube.com/watch?v=3QSfzrrAWQs).)

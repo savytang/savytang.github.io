@@ -4,12 +4,13 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
-# As Instructor
+## As Instructor
 
-- ITOM 6252 - __Decision Models__, SMU Cox MSBA course, 2024 Fall Module A.  
+- ITOM 6217 - ___Data Mining and Machine Learning, SMU Cox MBA course, 2025 Summer.
+- ITOM 6252 - __Decision Models__, SMU Cox MSBA course, 2024 Fall, 2025 Fall.  
 - 70371 - __Operations Management__, CMU undergraduate course, 2022 Summer.
 
-# As Teaching Assistant and Grader
+## As Teaching Assistant and Grader
 
 - __Operations Management__ (Instructor: Sridhar Tayur), CMU MBA course, Teaching Assistant, 2020 - 2022 Fall.
 - __Operations Management__ (Instructor: Neda Mirzaeian), CMU undergraduate course, Grader, 2021 Summer.

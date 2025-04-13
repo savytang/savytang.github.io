@@ -5,7 +5,7 @@ permalink: /service/
 author_profile: true
 ---
 
-1. Session chair for the INFORMS Annual Meeting, 2025
+1. Session chair for the [2025 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/?_gl=1%2A11eazyr%2A_gcl_au%2AMTkxMTgzNzgzMC4xNzQ0NTYzODcx), 2025
 1. Reviewer for [Management Science](https://pubsonline.informs.org/journal/mnsc) and [Production and Operations Management](https://onlinelibrary.wiley.com/journal/19375956), 2024 ~ present.
 1. PC member for [ACM FAccT 2024](https://facctconference.org/2024/), [ACM FAccT 2025](https://facctconference.org/2025/),  and [EAAMO 2024](https://conference.eaamo.org/).
 1. Session chair for the [INFORMS Annual Meeting, 2024](https://meetings.informs.org/wordpress/seattle2024/).

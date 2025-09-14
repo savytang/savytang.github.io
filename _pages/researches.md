@@ -24,17 +24,17 @@ author_profile: true
 ## Working Papers
 
 1. [Optimizing Wearable Devices in Personalized Opioid Use Disorder Treatments Under Budget Constraint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3389539). Kyra Gan, __Yanhan (Savannah) Tang__, Alan Scheller-Wolf, Sridhar Taylor (2025). Submitted.
-1. [Glass Half Full: Strategic Packaging Decisions and Environmental Outcomes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5289741#). Neda Mirzaeian, ___Yanhan (Savannah) Tang___ (2025). Submitted.
+1. [Glass Half Full: Strategic Packaging Decisions and Environmental Outcomes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5289741#). Neda Mirzaeian, __Yanhan (Savannah) Tang__ (2025). Submitted.
    * Finalist - 2025 INFORMS Service Science Best Paper Award (Socially Responsible Research Track).
 
 ## Work-In-Progress
 
-1. Voices of the Vulnerable: Analyzing Social Media Discourse on Child Protective Services. ___Yanhan (Savannah) Tang___ (2025).
-1. Using Causal Attention Neural Networks for Social Media Analysis: Augmented Intelligence for Intervention in Online Discourse on Opioid Recovery. Amit Basu<sup>&dagger;</sup>, ___Yanhan (Savannah) Tang___<sup>&dagger;</sup> (2025).
+1. Voices of the Vulnerable: Analyzing Social Media Discourse on Child Protective Services. __Yanhan (Savannah) Tang__ (2025).
+1. Using Causal Attention Neural Networks for Social Media Analysis: Augmented Intelligence for Intervention in Online Discourse on Opioid Recovery. Amit Basu<sup>&dagger;</sup>, __Yanhan (Savannah) Tang__<sup>&dagger;</sup> (2025).
    * Preliminary version accepted for HICSS 2026.
 1. A Nested Bayesian Model for Inferring Customer Life-Changing Events Based on Financial Transaction Data, __Yanhan (Savannah) Tang__, Alan Montgomery (2025). ([Link to abstract.](../files/abstract_pnc.pdf))
 
-### Publicly Available Projects (Not Peer-Reviewed)
+## Publicly Available Projects (Not Peer-Reviewed)
 
 1. [When is it permissible for artificial intelligence to lie? A trust-based approach](https://arxiv.org/abs/2103.05434). Tae Wan Kim, Tong (Joy) Lu, Kyusong Lee, Zhaoqi Cheng, __Yanhan (Savannah) Tang__, John Hooker (2024). 
 1. [Efficiency, Fairness, and Stability in Peer-to-Peer Ridesharing](https://arxiv.org/abs/2110.01152). Hoon Oh<sup>&dagger;</sup>, __Yanhan (Savannah) Tang__<sup>&dagger;</sup>, Zong Zhang, Alexandre Jacquillat, Fei Fang (2021). Technical report for *Mobility21*.

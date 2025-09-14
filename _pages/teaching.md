@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## As Instructor
 
-- ITOM 6217 - ___Data Mining and Machine Learning___, SMU Cox MBA course, 2025 Summer.
+- ITOM 6217 - __Data Mining and Machine Learning__, SMU Cox MBA course, 2025 Summer.
 - ITOM 6252 - __Decision Models__, SMU Cox MSBA course, 2024 Fall, 2025 Fall.  
 - 70371 - __Operations Management__, CMU undergraduate course, 2022 Summer.
 

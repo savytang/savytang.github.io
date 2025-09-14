@@ -5,6 +5,9 @@ permalink: /award/
 author_profile: true
 ---
 
+- *Finalist*, 2025 Service Science Best Paper Competition (SRR Track), INFORMS 2025
+- *Finalist*, 2025 TIMES Best Dissertation Award, INFORMS, 2025
+- *Principal Investigator*, University Research Council (URC) Grant for Research, SMU, 2025
 - *Finalist*, 2024 PSOR Best Video Competition, INFORMS, 2024
 - William W. Cooper Doctoral Dissertation Award, CMU, 2024
 - _Runner-up_, 2023 Decision Analysis Society Student Paper Award, INFORMS, 2023

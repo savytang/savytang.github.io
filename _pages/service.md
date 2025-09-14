@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 1. Session chair for the [2025 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/?_gl=1%2A11eazyr%2A_gcl_au%2AMTkxMTgzNzgzMC4xNzQ0NTYzODcx), 2025
-1. Reviewer for [Management Science](https://pubsonline.informs.org/journal/mnsc) and [Production and Operations Management](https://onlinelibrary.wiley.com/journal/19375956), 2024 ~ present.
+1. Reviewer for [Management Science](https://pubsonline.informs.org/journal/mnsc), [Operations Research](https://pubsonline.informs.org/journal/opre), and [Production and Operations Management](https://onlinelibrary.wiley.com/journal/19375956), 2024 ~ present.
+1. SMU Cox ITOM Seminar Coordinator, 2024 ~ present.
 1. PC member for [ACM FAccT 2024](https://facctconference.org/2024/), [ACM FAccT 2025](https://facctconference.org/2025/),  and [EAAMO 2024](https://conference.eaamo.org/).
 1. Session chair for the [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/), 2024.
 1. Co-chair for the [2023 Public Sector Operations Research (PSOR) Best Paper Award](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Public-Sector-O.R/Public-Sector-Operations-Research-Best-Paper-Award#:~:text=The%20INFORMS%20Public%20Sector%20Operations,application%20areas%20represented%20within%20PSOR.), 2023.

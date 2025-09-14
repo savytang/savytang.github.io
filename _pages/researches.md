@@ -34,7 +34,7 @@ author_profile: true
    * Preliminary version accepted for HICSS 2026.
 1. A Nested Bayesian Model for Inferring Customer Life-Changing Events Based on Financial Transaction Data, __Yanhan (Savannah) Tang__, Alan Montgomery (2025). ([Link to abstract.](../files/abstract_pnc.pdf))
 
-Publicly Available Projects (Not Peer-Reviewed)
+### Publicly Available Projects (Not Peer-Reviewed)
 
 1. [When is it permissible for artificial intelligence to lie? A trust-based approach](https://arxiv.org/abs/2103.05434). Tae Wan Kim, Tong (Joy) Lu, Kyusong Lee, Zhaoqi Cheng, __Yanhan (Savannah) Tang__, John Hooker (2024). 
 1. [Efficiency, Fairness, and Stability in Peer-to-Peer Ridesharing](https://arxiv.org/abs/2110.01152). Hoon Oh<sup>&dagger;</sup>, __Yanhan (Savannah) Tang__<sup>&dagger;</sup>, Zong Zhang, Alexandre Jacquillat, Fei Fang (2021). Technical report for *Mobility21*.

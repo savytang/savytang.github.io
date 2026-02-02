@@ -14,4 +14,4 @@ I am an Assistant Professor of [Information Technology and Operations Management
 
 My research focuses on data-driven decision-making and social media analytics for applications in public services and healthcare, including child welfare, the opioid epidemic, organ allocation, and personalization. I am dedicated to conducting research that has a positive social impact.
 
-More details can be found on my [CV](../files/Tang_CV_20250914.pdf).
+More details can be found on my [CV](../files/Tang_CV_202602.pdf).

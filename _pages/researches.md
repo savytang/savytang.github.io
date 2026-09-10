@@ -23,14 +23,14 @@ author_profile: true
 
 ## Working Papers
 
-1. Compassionate AI for Effective Moderation of Social Media: An Application to Opioid Recovery, 2026. __Yanhan (Savannah) Tang__, Amit Basu. Under revision.
-   - [Preliminary version](https://scholarspace.manoa.hawaii.edu/items/dbad2ae4-590f-47fa-87f5-79de9402f0af) accepted for HICSS 2026. 
 1. [When AI Listens First: Crisis Triage and Emotional Support in Mental Health Helplines](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4718407), 2026. Xiaoquan Gao<sup>&dagger;</sup>, __Yanhan (Savannah) Tang__<sup>&dagger;</sup> (co-first). Major revision at ___Manufacturing and Service Operations Management___.
    * Finalist - 2026 INFORMS Service Science Best Paper Award (Socially Responsible Research Track).
-1. [Glass Half Full: Strategic Packaging Decisions and Environmental Outcomes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5289741#), 2026. Neda Mirzaeian<sup>&dagger;</sup>, __Yanhan (Savannah) Tang__<sup>&dagger;</sup> (co-first). In revision.
+1. [Optimizing Wearable Devices in Personalized Opioid Use Disorder Treatments Under Budget Constraint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3389539), 2026. Kyra Gan, __Yanhan (Savannah) Tang__, Alan Scheller-Wolf, Sridhar Taylor. Major revision at ***Production and Operations Management***.
+1. A Causal Attention Neural Network-Based Approach for Responsive Intervention in Social Media, 2026. __Yanhan (Savannah) Tang__, Amit Basu. Under revision.
+   - [Preliminary version](https://scholarspace.manoa.hawaii.edu/items/dbad2ae4-590f-47fa-87f5-79de9402f0af) accepted for HICSS 2026. 
+1. [Glass Half Full: Strategic Packaging Decisions and Environmental Outcomes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5289741#), 2026. Neda Mirzaeian<sup>&dagger;</sup>, __Yanhan (Savannah) Tang__<sup>&dagger;</sup> (co-first). Under revision.
    * Finalist - 2025 INFORMS Service Science Best Paper Award (Socially Responsible Research Track).
-1. [Optimizing Wearable Devices in Personalized Opioid Use Disorder Treatments Under Budget Constraint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3389539). Kyra Gan, __Yanhan (Savannah) Tang__, Alan Scheller-Wolf, Sridhar Taylor (2025). Major revision at ***Production and Operations Management***.
-1. Who Receives Prompt Help? Ideal Persona and Narrative Fit in Digital Help-Oriented Communities, 2026. __Yanhan (Savannah) Tang__.
+1. Who Receives Prompt Help? Ideal Persona and Narrative Fit in Digital Help-Oriented Communities, 2026. __Yanhan (Savannah) Tang__. Under review.
    - Preliminary version accepted for HICSS 2027. 
 
 ## Work-In-Progress

@@ -5,6 +5,7 @@ permalink: /award/
 author_profile: true
 ---
 
+- *Finalist*, 2026 Service Science Best Paper Competition (SRR Track), INFORMS 2026
 - *Finalist*, 2025 Service Science Best Paper Competition (SRR Track), INFORMS 2025
 - *Finalist*, 2025 TIMES Best Dissertation Award, INFORMS, 2025
 - *Principal Investigator*, University Research Council (URC) Grant for Research, SMU, 2025
